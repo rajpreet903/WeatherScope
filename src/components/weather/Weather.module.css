@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;700&display=swap");
+
+.list {
+   padding-top: 15px;
+   color: rgba(0, 0, 0, 0.774);
+   list-style: none;
+}
+.list h2 {
+   line-height: 24px;
+   letter-spacing: normal;
+   padding-bottom: 5px;
+   font-family: "Poppins", sans-serif;
+}
+.temp {
+   font-size: 84px;
+}
+.celcius {
+   font-size: 30px;
+   color: rgba(0, 0, 0, 0.596);
+}
+.weathericon {
+   position: absolute;
+   top: 28%;
+   left: 60%;
+   /* transform: translate(400px, -150px); */
+   transform: scale(1.7);
+   max-width: fit-content;
+   background-color: rgb(200, 140, 94);
+   border-radius: 100%;
+}
+.description {
+   font-size: 1.25rem;
+}

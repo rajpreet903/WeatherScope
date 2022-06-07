@@ -1,0 +1,25 @@
+@import url(//db.onlinewebfonts.com/c/1094504ae47cb9cfa800bc04261c211a?family=Geomanist);
+/* background-color: #884080; */
+::selection {
+   color: #ffffff;
+   background-color: #fcbe62;
+}
+
+.header {
+   background-color: #000000;
+   color: #fcbe62;
+   padding-top: 2rem;
+   font-size: 2rem;
+   font-family: Geomanist;
+   font-weight: bold;
+   display: flex;
+   justify-content: center;
+   cursor: pointer;
+   letter-spacing: normal;
+   border-bottom: 10px solid #fcbe62;
+}
+.header span {
+   color: #000000;
+   -webkit-text-stroke: 1px #fcbe62;
+   opacity: 75%;
+}
