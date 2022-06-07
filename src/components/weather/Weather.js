@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 import Cards from "../UI/Cards";
 import css from "./Weather.module.css";
 
