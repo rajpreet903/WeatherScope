@@ -1,4 +1,4 @@
-@import url(//db.onlinewebfonts.com/c/1094504ae47cb9cfa800bc04261c211a?family=Geomanist);
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@800&display=swap");
 /* background-color: #884080; */
 ::selection {
    color: #ffffff;
@@ -10,7 +10,7 @@
    color: #fcbe62;
    padding-top: 2rem;
    font-size: 2rem;
-   font-family: Geomanist;
+   font-family: "Poppins", sans-serif;
    font-weight: bold;
    display: flex;
    justify-content: center;
